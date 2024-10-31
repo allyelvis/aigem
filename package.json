@@ -1,3 +1,7 @@
++  "scripts": {
++    "build": "tsc && rollup -c",
++    "publish": "npm publish"
++  },
 {
   "name": "gemini-demo",
   "private": true,
